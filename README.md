@@ -1,10 +1,10 @@
 # Homework 2: Lighting & Particle System
 ### 1. Add at least 4 lights to your scene
-Point Light
-Directional Light
-Spotlight
-Area Light
-Emissive Material (Cube)
+- Point Light (lamp)
+- Directional Light (sun)
+- Spotlight (on rat)
+- Area Light (from arcade cabinet screen)
+- Emissive Material (Cube - on arcade cabinet screen)
 
 ---
 
@@ -16,7 +16,7 @@ UI button to switch between lights dimmed/on/off
 
 ### 3. Add a particle system
 
-2D Texture emitter - hearts coming from head of rat
+2D Texture emitter (hearts coming from head of rat)
 
 ---
 
